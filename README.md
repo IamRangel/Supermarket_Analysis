@@ -69,4 +69,4 @@ Os arquivos processados serão gerados na pasta data_processed_small e poderão 
 
 📸 **Captura do Dashboard**
 
-![Dashboard do Projeto](visuals/Captura%20de%20Tela.png)
+![Dashboard do Projeto](ecommerce_supermarket_project/visuals/Captura%20de%20Tela.png)
